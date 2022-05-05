@@ -1,0 +1,5 @@
+// https://designsystem.digital.gov/documentation/settings/
+@use "uswds-core" with (
+  $theme-show-compile-warnings: false,
+  $theme-show-notifications: false,
+);

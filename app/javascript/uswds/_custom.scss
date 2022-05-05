@@ -1,0 +1,8 @@
+// USWDS THEME CUSTOM STYLES
+// Custom project SASS goes here.
+@use "uswds-core" as *;
+
+.bar,
+.foo {
+  @include u-padding-right('05');
+}
